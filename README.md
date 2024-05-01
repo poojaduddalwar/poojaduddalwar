@@ -59,26 +59,15 @@ A self-taught, passionate and fast-learner full-stack developer 🎯 from Dhaka,
 
 ## 🏆 Github Status
 
-<!-- <img  src="https://github-readme-stats.vercel.app/api?username=poojaduddalwar&show_icons=true&hide_border=true&theme=radical" width="45%" align="right" >
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=poojaduddalwar&theme=radical" width="45%" >
-
-
-<br /> 
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=poojaduddalwar&theme=onestar&no-frame=true" alt="poojaduddalwar Profile Trophies" />
-  </a>
-</div> -->
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=poojaduddalwar&show_icons=true&locale=en&layout=compact" alt="poojaduddalwar" /></p>
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=poojaduddalwar&show_icons=true&locale=en" alt="poojaduddalwar" /></p> -->
-<a href="http://www.github.com/poojaduddalwar"><img src="https://github-readme-streak-stats.herokuapp.com/?user=poojaduddalwar&stroke=ffffff&background=1c1917&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/poojaduddalwar" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=poojaduddalwar&langs_count=10&title_color=10b981&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<!-- <a href="http://www.github.com/poojaduddalwar"><img src="https://github-readme-streak-stats.herokuapp.com/?user=poojaduddalwar&stroke=ffffff&background=1c1917&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a> -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=poojaduddalwar&" alt="poojaduddalwar" /></p>
+<!-- <a href="https://github.com/poojaduddalwar" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=poojaduddalwar&langs_count=10&title_color=10b981&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> -->
+
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=poojaduddalwar&" alt="poojaduddalwar" /></p> -->
 
 
 <br /> 
