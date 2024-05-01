@@ -39,49 +39,6 @@ A self-taught, passionate and fast-learner full-stack developer 🎯 from Dhaka,
 
 ## 👨‍💻 Skills
 
-<!-- <div align="center">
-
-<img src="https://i.imgur.com/Riq5bIb.png" height="40" width="40">
-<img src="https://i.imgur.com/Uivesm4.png" height="40" width="40">
-<img src="https://i.imgur.com/KUlechH.png" height="40" width="40">
-<img src="https://i.imgur.com/lPav31e.png" height="45" width="65">
-<!-- <img src="https://i.imgur.com/uTwsATT.png" height="40" width="40"> -->
-<img src="https://i.imgur.com/0zjDnXw.png" height="40" width="40">
-<!-- <img src="https://i.imgur.com/VBd4aS3.png" height="40" width="40"> -->
-<!-- <img src="https://i.imgur.com/KSZRGKH.png" height="45" width="40"> -->
-<img src="https://i.imgur.com/JcUsLfc.png" height="40" width="40">
-<!-- <img src="https://i.imgur.com/pWp0iDn.png" height="40" width="40">  -->
-<img src="https://i.imgur.com/wa305S7.png" height="40" width="40">
-<!-- <img src="https://i.imgur.com/wsUmcb5.png" height="40" width="40"> -->
-<!-- <img src="https://i.imgur.com/3NP07nj.png" height="40" width="40"> -->
-<!-- <img src="https://i.imgur.com/mH7zbFv.png" height="40" width="35"> -->
-<!-- <img src="https://i.imgur.com/9Ulh3vX.png" height="40" width="40"> -->
-<!-- <img src="https://i.imgur.com/apxFVxR.png" height="40" width="40"> -->
-<!-- <img src="https://i.imgur.com/t74wIVs.png" height="40" width="40"> -->
-<!-- <img src="https://i.imgur.com/egRbxBy.png" height="40" width="40"> -->
-
-<br />
-
-<img src="https://i.imgur.com/CfbGSw2.png" height="40" width="40">
-<img src="https://i.imgur.com/ydbeeyk.png" height="40" width="40">
-<img src="https://i.imgur.com/054LTZq.png" height="45" width="45">
-<img src="https://i.imgur.com/VJmeyAU.png" height="40" width="40">
-<img src="https://i.imgur.com/x6EieWc.png" height="40" width="40">
-<img src="https://i.imgur.com/K5LeVnW.png" height="40" width="60">
-<img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/dtokjerhk1dxyludtlwc" height="40" width="40">
-<img src="https://raw.githubusercontent.com/chakra-ui/chakra-ui/main/logo/logo-colored@2x.png?raw=true" height="40" width="60">
-<img src="https://cdn.worldvectorlogo.com/logos/postman.svg" height="40" width="40">
-<!-- <img src="https://i.imgur.com/DjzmcTo.png" height="40" width="40"> -->
-<!-- <img src="https://i.imgur.com/VjulBsn.png" height="40" width="40"> -->
-<img src="https://i.imgur.com/H3C168v.png" height="40" width="40">
-<!-- <img src="https://i.imgur.com/bbawh2F.png" height="40" width="40"> -->
-<img src="https://i.imgur.com/0BKuO1I.png" height="40" width="40">
-<img src="https://i.imgur.com/b65wQ01.png" height="40" width="40">
-<!-- <img src="https://i.imgur.com/0EZWddS.png" height="40" width="40"> -->
-<!-- <img src="https://i.imgur.com/yBHwdqa.png" height="40" width="40"> -->
-</div>
-
-<br />  -->
 <p align="left">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://chakra-ui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/chakra-colored.svg" width="36" height="36" alt="Chakra UI" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a><a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 </p>
