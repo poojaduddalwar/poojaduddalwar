@@ -4,7 +4,10 @@
 
 <h1 align="center"> Hello, I'm Pooja Duddalwar <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px" > ! </h1>
 
-<h3 align="center">I’m a 3rd-year student pursuing a Bachelor’s in Information Technology , from D.Y Patil College Of Engineering,Pune. I am a Full Stack Developer👩‍💻 . </h3>  
+<!-- <h3 align="center">I’m a 3rd-year student pursuing a Bachelor’s in Information Technology , from D.Y Patil College Of Engineering,Pune. I am a Full Stack Developer👩‍💻 . </h3> -->
+
+Web Developer
+-------------
 
 
 <div align="left">
@@ -16,9 +19,9 @@ A self-taught, passionate and fast-learner full-stack developer 🎯 from Dhaka,
   <br /> -->
   
 ![](https://visitor-badge.glitch.me/badge?page_id=poojaduddalwar)
-![age](https://img.shields.io/badge/age-21-blueviolet)
+![age](https://img.shields.io/badge/age-22-blueviolet)
 ![focus](https://img.shields.io/badge/focus-FullStack-critical)
-![living](https://img.shields.io/badge/living-Pune-ff69b4)
+![living](https://img.shields.io/badge/living-Nagpur-ff69b4)
 <!-- ![projects](https://img.shields.io/badge/projects-38-important) -->
 
   <br />
@@ -34,9 +37,9 @@ A self-taught, passionate and fast-learner full-stack developer 🎯 from Dhaka,
 
 <br />
 
-## 👨‍💻 Languages and Tools
+## 👨‍💻 Skills
 
-<div align="center">
+<!-- <div align="center">
 
 <img src="https://i.imgur.com/Riq5bIb.png" height="40" width="40">
 <img src="https://i.imgur.com/Uivesm4.png" height="40" width="40">
@@ -78,7 +81,11 @@ A self-taught, passionate and fast-learner full-stack developer 🎯 from Dhaka,
 <!-- <img src="https://i.imgur.com/yBHwdqa.png" height="40" width="40"> -->
 </div>
 
-<br /> 
+<br />  -->
+<p align="left">
+<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://chakra-ui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/chakra-colored.svg" width="36" height="36" alt="Chakra UI" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a><a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+</p>
+
 
 ## 🎀 Favourite Stack
 
@@ -109,7 +116,10 @@ A self-taught, passionate and fast-learner full-stack developer 🎯 from Dhaka,
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=poojaduddalwar&show_icons=true&locale=en&layout=compact" alt="poojaduddalwar" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=poojaduddalwar&show_icons=true&locale=en" alt="poojaduddalwar" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=poojaduddalwar&show_icons=true&locale=en" alt="poojaduddalwar" /></p> -->
+<a href="http://www.github.com/poojaduddalwar"><img src="https://github-readme-streak-stats.herokuapp.com/?user=poojaduddalwar&stroke=ffffff&background=1c1917&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="https://github.com/poojaduddalwar" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=poojaduddalwar&langs_count=10&title_color=10b981&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=poojaduddalwar&" alt="poojaduddalwar" /></p>
 
