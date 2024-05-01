@@ -71,6 +71,7 @@ A self-taught, passionate and fast-learner full-stack developer 🎯 from Dhaka,
 
 ## Show some ❤️ by starring ⭐ some of the repositories!
 
+<div align="left">
 <!-- [<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=react&logoColor=61DAFB">](https://prionto-71.web.app/) -->
 <!-- [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](https://mail.google.com/mail/?view=cm&fs=1&to=prionto71@gmail.com) -->
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://in.linkedin.com/in/pooja-duddalwar-8a72301a9)
