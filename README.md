@@ -4,7 +4,7 @@
 
 <h1 align="center"> Hello, I'm Pooja Duddalwar <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px" > ! </h1>
 
-<!-- <h3 align="center">I’m a 3rd-year student pursuing a Bachelor’s in Information Technology , from D.Y Patil College Of Engineering,Pune. I am a Full Stack Developer👩‍💻 . </h3> -->
+<!-- <h3 align="center">I am a Full Stack Developer👩‍💻 . </h3> -->
 
 Web Developer
 -------------
@@ -19,7 +19,7 @@ A self-taught, passionate and fast-learner full-stack developer 🎯 from Dhaka,
   <br /> -->
   
 ![](https://visitor-badge.glitch.me/badge?page_id=poojaduddalwar)
-![age](https://img.shields.io/badge/age-22-blueviolet)
+![age](https://img.shields.io/badge/age-24-blueviolet)
 ![focus](https://img.shields.io/badge/focus-FullStack-critical)
 ![living](https://img.shields.io/badge/living-Nagpur-ff69b4)
 <!-- ![projects](https://img.shields.io/badge/projects-38-important) -->
