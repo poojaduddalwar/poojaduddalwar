@@ -18,7 +18,7 @@ A self-taught, passionate and fast-learner full-stack developer 🎯 from Dhaka,
 
   <br /> -->
   
-![](https://visitor-badge.glitch.me/badge?page_id=poojaduddalwar)
+![Visitors](https://komarev.com/ghpvc/?username=poojaduddalwar&label=Profile%20views&color=0e75b6&style=flat)
 ![age](https://img.shields.io/badge/age-24-blueviolet)
 ![focus](https://img.shields.io/badge/focus-FullStack-critical)
 ![living](https://img.shields.io/badge/living-Nagpur-ff69b4)
