@@ -6,7 +6,7 @@
 
 <!-- <h3 align="center">I am a Full Stack Developer👩‍💻 . </h3> -->
 
-Web Developer
+Developer
 -------------
 
 
